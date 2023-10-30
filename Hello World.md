@@ -66,3 +66,4 @@ git checkout master
 
 Это клубника
 ![Клубника](клубника.JPG.jpg)
+
