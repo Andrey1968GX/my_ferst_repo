@@ -83,3 +83,7 @@ git branch -d <имя_ветки>
 ```
 git branch <имя_ветки>
 ```
+отслеживание веток 
+```
+git log --oneline --graph
+```
